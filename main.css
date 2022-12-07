@@ -198,9 +198,9 @@ img{
 
 /*first tab content - powerstats*/
 
-/* .powerstats {
+.powerstats {
     display: none;
-} */
+}
 
 .powerstats li {
     display: flex;
@@ -230,9 +230,9 @@ img{
     font-weight: 700;
 }
 
-/* .biography {
+.biography {
     display: none;
-} */
+}
 .biography li {
     margin: 3.4rem 0;
 }
@@ -252,9 +252,9 @@ img{
 }
 
 
-/* .appearance {
+.appearance {
     display: none;
-} */
+}
 
 .appearance li {
     display: flex;
@@ -284,9 +284,9 @@ img{
     text-align: right;
 }
 
-/* .connections {
+.connections {
     display: none;
-} */
+}
 
 .connections li span:first-child {
     text-transform: uppercase;
